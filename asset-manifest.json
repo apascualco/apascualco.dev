@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/apascualco.dev/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/apascualco.dev/static/js/main.719c1fa5.chunk.js",
+    "main.js.map": "/apascualco.dev/static/js/main.719c1fa5.chunk.js.map",
+    "runtime-main.js": "/apascualco.dev/static/js/runtime-main.e46558da.js",
+    "runtime-main.js.map": "/apascualco.dev/static/js/runtime-main.e46558da.js.map",
+    "static/js/2.a25f58a3.chunk.js": "/apascualco.dev/static/js/2.a25f58a3.chunk.js",
+    "static/js/2.a25f58a3.chunk.js.map": "/apascualco.dev/static/js/2.a25f58a3.chunk.js.map",
+    "static/js/3.3ee2f481.chunk.js": "/apascualco.dev/static/js/3.3ee2f481.chunk.js",
+    "static/js/3.3ee2f481.chunk.js.map": "/apascualco.dev/static/js/3.3ee2f481.chunk.js.map",
+    "index.html": "/apascualco.dev/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/apascualco.dev/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.a25f58a3.chunk.js.LICENSE.txt": "/apascualco.dev/static/js/2.a25f58a3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/apascualco.dev/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e46558da.js",
+    "static/js/2.a25f58a3.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.719c1fa5.chunk.js"
+  ]
+}
