@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/apascualco.dev/static/css/main.63f31b63.chunk.css",
-    "main.js": "/apascualco.dev/static/js/main.1cc25eae.chunk.js",
-    "main.js.map": "/apascualco.dev/static/js/main.1cc25eae.chunk.js.map",
+    "main.css": "/apascualco.dev/static/css/main.c464f156.chunk.css",
+    "main.js": "/apascualco.dev/static/js/main.325a663a.chunk.js",
+    "main.js.map": "/apascualco.dev/static/js/main.325a663a.chunk.js.map",
     "runtime-main.js": "/apascualco.dev/static/js/runtime-main.4cce2e57.js",
     "runtime-main.js.map": "/apascualco.dev/static/js/runtime-main.4cce2e57.js.map",
     "static/js/2.58055f78.chunk.js": "/apascualco.dev/static/js/2.58055f78.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.2a7b7c03.chunk.js": "/apascualco.dev/static/js/3.2a7b7c03.chunk.js",
     "static/js/3.2a7b7c03.chunk.js.map": "/apascualco.dev/static/js/3.2a7b7c03.chunk.js.map",
     "index.html": "/apascualco.dev/index.html",
-    "static/css/main.63f31b63.chunk.css.map": "/apascualco.dev/static/css/main.63f31b63.chunk.css.map",
+    "static/css/main.c464f156.chunk.css.map": "/apascualco.dev/static/css/main.c464f156.chunk.css.map",
     "static/js/2.58055f78.chunk.js.LICENSE.txt": "/apascualco.dev/static/js/2.58055f78.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4cce2e57.js",
     "static/js/2.58055f78.chunk.js",
-    "static/css/main.63f31b63.chunk.css",
-    "static/js/main.1cc25eae.chunk.js"
+    "static/css/main.c464f156.chunk.css",
+    "static/js/main.325a663a.chunk.js"
   ]
 }
