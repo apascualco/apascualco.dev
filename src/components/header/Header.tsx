@@ -38,7 +38,7 @@ export default function Header() {
             <a href="https://www.linkedin.com/in/apascualco">
               <img
                 className="SocialNetworkHeader"
-                src="'/' + linkedin"
+                src={inDark}
                 alt="Linkedin"
                 onMouseOver={(e) => e.currentTarget.src = inWhite}
                 onMouseOut={(e) => e.currentTarget.src = inDark}
@@ -49,7 +49,7 @@ export default function Header() {
             <a href="https://twitter.com/apascualco">
               <img
                 className="SocialNetworkHeader"
-                src="'/' + twitterImage"
+                src={twitterDark}
                 alt="Twitter"
                 onMouseOver={(e) => e.currentTarget.src = twitterWhite}
                 onMouseOut={(e) => e.currentTarget.src = twitterDark}
