@@ -1,0 +1,44 @@
+.HeaderContainer {
+  padding-top: 10px;
+  margin: auto;
+  height: 95px;
+  position: relative;
+  display: grid;
+  grid-template-columns: 30% 50% 20%;
+}
+.LogoHeader {
+  display: grid;
+  grid-template-columns: 95px auto;
+}
+.AvatarImg {
+  border-radius: 50%;
+  border: 2px solid #414141;
+}
+.AvatarContainer {
+  padding: 5px;
+}
+.LogoText {
+  font-family: 'gotham rounded bold', sans-serif;
+  font-size: 27px;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+.SocialNetworkHeader {
+  margin-top: 40px;
+  padding-right: 4px;
+}
+.FirstSocialNetworkIcon {
+  text-align: right;
+}
+.SocialNetworkContainer {
+  display: grid;
+  grid-template-columns: auto 35px 35px;
+}
+.ContactLink {
+  padding-left: 28px;
+  text-align: right;
+  font-size: 19px;
+}
+.ContactLink:hover {
+  color: steelblue;
+}
